@@ -64,8 +64,8 @@ KRISHI SHEBA is a **C++ console-based smart agriculture management system** desi
 If you're interested in improving this project, feel free to fork or contribute!
 
 - **Email:** diponkorpal07@gmail.com 
-- **LinkedIn:** [Shanto Gyn](https://www.linkedin.com/in/shanto-gyn-933aa133b/)  
-- **GitHub:** [shantogyn](https://github.com/DiponkorPL)
+- **LinkedIn:** [Diponkor Pal](https://www.linkedin.com/in/diponkorpal)  
+- **GitHub:** [DiponkorPL](https://github.com/DiponkorPL)
 
 ---
 
